@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/layered/examples/1-initial/pom.xml" />
+        <option value="$PROJECT_DIR$/layered/examples/4-data-access/pom.xml" />
+        <option value="$PROJECT_DIR$/layered/examples/2-transaction-script/pom.xml" />
+        <option value="$PROJECT_DIR$/layered/examples/3-domain-model-service-layer/pom.xml" />
+        <option value="$PROJECT_DIR$/microkernel/examples/core/pom.xml" />
+        <option value="$PROJECT_DIR$/microkernel/examples/common/pom.xml" />
+        <option value="$PROJECT_DIR$/microkernel/examples/mexico-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/microkernel/examples/colombia-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/event-driven/examples/scratch/pom.xml" />
+        <option value="$PROJECT_DIR$/event-driven/examples/message-broker/core/pom.xml" />
+        <option value="$PROJECT_DIR$/event-driven/examples/message-broker/common/pom.xml" />
+        <option value="$PROJECT_DIR$/event-driven/examples/message-broker/processor/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/examples/property-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/examples/property-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/examples/reservation-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mexico-plugin" />
+        <module name="transaction-script" />
+        <module name="event-driven" />
+        <module name="property-lambda" />
+        <module name="processor" />
+        <module name="core" />
+        <module name="common" />
+        <module name="property-service" />
+        <module name="domain-model-service-layer" />
+        <module name="colombia-plugin" />
+        <module name="reservation-service" />
+        <module name="layers" />
+        <module name="data-access" />
+        <module name="common (1) (course.event-driven)" />
+        <module name="core (1) (course.event_driven)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="colombia-plugin" target="11" />
+      <module name="common" target="11" />
+      <module name="common (1) (course.event-driven)" target="11" />
+      <module name="core" target="11" />
+      <module name="core (1) (course.event_driven)" target="11" />
+      <module name="data-access" target="11" />
+      <module name="domain-model-service-layer" target="11" />
+      <module name="event-driven" target="11" />
+      <module name="layers" target="11" />
+      <module name="mexico-plugin" target="11" />
+      <module name="processor" target="11" />
+      <module name="property-lambda" target="11" />
+      <module name="property-service" target="1.8" />
+      <module name="reservation-service" target="1.8" />
+      <module name="transaction-script" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="property-service" options="-parameters" />
+      <module name="reservation-service" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Patrones de arquitectura.iml" filepath="$PROJECT_DIR$/.idea/Patrones de arquitectura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microkernel/examples/colombia-plugin/colombia-plugin.iml" filepath="$PROJECT_DIR$/microkernel/examples/colombia-plugin/colombia-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microkernel/examples/common/common.iml" filepath="$PROJECT_DIR$/microkernel/examples/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-driven/examples/message-broker/common/common (1) (course.event-driven).iml" filepath="$PROJECT_DIR$/event-driven/examples/message-broker/common/common (1) (course.event-driven).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microkernel/examples/core/core.iml" filepath="$PROJECT_DIR$/microkernel/examples/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-driven/examples/message-broker/core/core (1) (course.event_driven).iml" filepath="$PROJECT_DIR$/event-driven/examples/message-broker/core/core (1) (course.event_driven).iml" />
+      <module fileurl="file://$PROJECT_DIR$/layered/examples/4-data-access/data-access.iml" filepath="$PROJECT_DIR$/layered/examples/4-data-access/data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layered/examples/3-domain-model-service-layer/domain-model-service-layer.iml" filepath="$PROJECT_DIR$/layered/examples/3-domain-model-service-layer/domain-model-service-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-driven/examples/scratch/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/examples/scratch/event-driven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layered/examples/1-initial/layers.iml" filepath="$PROJECT_DIR$/layered/examples/1-initial/layers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microkernel/examples/mexico-plugin/mexico-plugin.iml" filepath="$PROJECT_DIR$/microkernel/examples/mexico-plugin/mexico-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-driven/examples/message-broker/processor/processor.iml" filepath="$PROJECT_DIR$/event-driven/examples/message-broker/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/examples/property-lambda/property-lambda.iml" filepath="$PROJECT_DIR$/microservices/examples/property-lambda/property-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/examples/property-service/property-service.iml" filepath="$PROJECT_DIR$/microservices/examples/property-service/property-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/examples/reservation-service/reservation-service.iml" filepath="$PROJECT_DIR$/microservices/examples/reservation-service/reservation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layered/examples/2-transaction-script/transaction-script.iml" filepath="$PROJECT_DIR$/layered/examples/2-transaction-script/transaction-script.iml" />
+    </modules>
+  </component>
+</project>
